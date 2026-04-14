@@ -1,0 +1,6 @@
+{
+  "title": "PHW",
+  "type": "weapon",
+  "tags": ["fun", "weapon"],
+  "ignore": ["*.psd", "*.vcproj", "*.svn*"]
+}
